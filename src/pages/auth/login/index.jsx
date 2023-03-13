@@ -1,5 +1,5 @@
 import React from 'react'
-import AppLayout from '../../../components/layouts/app.layout'
+import AppLayout from '../../../component/layouts/app.layout'
 import { Form, Input, Button, Checkbox } from 'antd'
 import { supabase } from '../../../configs/supabase';
 import { useNavigate } from 'react-router-dom';
